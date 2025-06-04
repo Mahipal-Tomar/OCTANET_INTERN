@@ -1,7 +1,7 @@
 # OCTANET_Intern_May
 # TechOctaNet Services Internship Task – Landing Page
 
-## 📌 Project Overview
+# 📌 Project Overview
 TA responsive and modern landing page built using HTML, CSS, and JavaScript as part of an internship assignment at OctaNet Services Pvt. Ltd.
 
 
