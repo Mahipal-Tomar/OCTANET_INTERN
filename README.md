@@ -1,19 +1,21 @@
-# OCTANET_MAY
-# OctaNet Services Internship Task – Landing Page
+# OCTANET_Intern_May
+# TechOctaNet Services Internship Task – Landing Page
 
 ## 📌 Project Overview
-This repository contains the landing page developed as part of the internship assignment provided by **OctaNet Services Pvt. Ltd.** The task focused on building an engaging and visually appealing landing page using **HTML**, **CSS**, and **JavaScript**.
+TA responsive and modern landing page built using HTML, CSS, and JavaScript as part of an internship assignment at OctaNet Services Pvt. Ltd.
+
 
 ## 🎯 Objective
-The goal of this project was to demonstrate fundamental web development skills while creating an interactive and modern web interface. 
+Showcase core web development skills through a clean, user-friendly UI.
 
-## 📂 Project Structure
 
-- `LandingPage.html` – Core HTML file that defines the structure and content of the landing page.
-- `LandingPage.css` – Contains styling rules for layout, typography, and visual elements.
-- `LandingPage.js` – Adds interactivity by implementing the parallax scrolling effect.
+📁 Files
+LandingPage.html – Page structure
+LandingPage.css – Design & visuals
+LandingPage.js – Interactive elements
 
-## 💡 Technologies Used
-- HTML 
-- CSS  
-- JavaScript 
+
+🛠 Tech Stack
+HTML – Structure
+CSS – Styling & layout
+JavaScript – Parallax scroll effect
